@@ -28,7 +28,7 @@ This is a keyboard made from scratch made by a teenage, made from PCB, CAD to fi
 ### Why did i made this? 
 I made this to learn new skills and learn more about PCBs and do ALOT of CAD the case/CAD of this project took so much time! and the case makes it looks so much awesome! and i have made a separate numpad which can alsop be used as a macropad, you can use it as a full sized keyboard or just as a ANSI-75 Keyboard with a small macropad on your desk! the numpad also have a keychian holder so you can carry it easily too! 
 
-### Features
+# Features
 - EC11 Rotary Encoder - For Volume, Brightness etc
 - Oled screen -  To play gifs and notifications
 - ANSI-75 Layout
@@ -38,19 +38,19 @@ I made this to learn new skills and learn more about PCBs and do ALOT of CAD the
 - Awesome CAD/cool case design
 - Uses RP2040
 
-### Schematics 
+## Schematics 
 <img width="1529" height="401" alt="image" src="https://github.com/user-attachments/assets/e7f8e0c0-024b-4f41-80f3-8c3c1b525c79" />
 <img width="1621" height="823" alt="image" src="https://github.com/user-attachments/assets/9e259414-3d22-490c-a14a-8a3f21b72261" />
 
-### PCB
+## PCB
 <img width="1582" height="711" alt="image" src="https://github.com/user-attachments/assets/32850951-2295-4f26-90ae-b25a3056b1e6" />
 <img width="906" height="850" alt="image" src="https://github.com/user-attachments/assets/67ac1641-5800-433a-b499-795e0a2c2877" />
 
-### 3d PCB
+## 3d PCB
 <img width="1618" height="553" alt="image" src="https://github.com/user-attachments/assets/7c80fabd-46a9-460f-8874-7f2d8a2ed6b6" />
 <img width="1095" height="909" alt="image" src="https://github.com/user-attachments/assets/724e8b4c-d072-4480-b1ef-c198635f0aac" />
 
-### Case
+# Case
 ## Top
 <img width="1823" height="557" alt="image" src="https://github.com/user-attachments/assets/dacea7c9-04d0-43a3-9e36-5131e4d17286" />
 <img width="1889" height="604" alt="image" src="https://github.com/user-attachments/assets/55a9309c-7d62-428a-9acc-576e55e2ced0" />
@@ -74,7 +74,7 @@ I made this to learn new skills and learn more about PCBs and do ALOT of CAD the
 <img width="1280" height="739" alt="image" src="https://github.com/user-attachments/assets/ebf613a9-b45c-4ea5-8c1d-a2484e8c0513" />
 <img width="1090" height="658" alt="image" src="https://github.com/user-attachments/assets/04d73e86-72de-4766-92d3-692e064eed5e" />
 
-### 3d view of all parts together
+# 3d view of all parts together
 <img width="868" height="630" alt="image" src="https://github.com/user-attachments/assets/94a27159-071d-4cd7-b9b4-b8d7eeb2ee44" />
 <img width="1717" height="680" alt="image" src="https://github.com/user-attachments/assets/13c1ca25-5213-4e8d-85f3-bc670f70dd57" />
 <img width="1189" height="626" alt="image" src="https://github.com/user-attachments/assets/4ff43850-77b6-4784-83ab-c14d449ee37f" />
