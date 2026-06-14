@@ -1,4 +1,6 @@
-<img width="1090" height="658" alt="image" src="https://github.com/user-attachments/assets/f0a9bfdb-f0c8-4a88-b2ed-271221c1e833" /># PicoType 
+
+# PicoType 
+<img width="1090" height="658" alt="image" src="https://github.com/user-attachments/assets/f0a9bfdb-f0c8-4a88-b2ed-271221c1e833" />
 <img width="1504" height="767" alt="Screenshot 2026-06-09 235714" src="https://github.com/user-attachments/assets/5ea2e166-e6a9-402b-aaab-bfc7590d5d37" />
 <img width="1919" height="848" alt="image" src="https://github.com/user-attachments/assets/ace6a94c-d8fd-4632-bb9b-b664bb115e48" />
 <img width="1919" height="568" alt="image" src="https://github.com/user-attachments/assets/9b6a67e9-bacd-4dbd-8269-589f5ede1d92" />
