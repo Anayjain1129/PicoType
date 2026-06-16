@@ -85,3 +85,18 @@ I made this to learn new skills and learn more about PCBs and do ALOT of CAD the
 <img width="903" height="737" alt="image" src="https://github.com/user-attachments/assets/1170dac2-fdac-4bfb-9a0d-778eea7bbe3c" />
 <img width="854" height="626" alt="image" src="https://github.com/user-attachments/assets/3a310bb7-31e6-464c-848d-e6e9de9055f1" />
 <img width="1116" height="632" alt="image" src="https://github.com/user-attachments/assets/244f7126-2d1d-4e66-b846-80ed2264a740" />
+
+# BOM
+| # | Item | Description | Quantity | URL | Total Price (INR) | Total Price (USD) |
+|---|------|-------------|----------|-----|:-----------------:|:-----------------:|
+| 1 | Numpad PCB | PCB for the Numpad | 5 | N/A | ₹1,845 | $19.53 |
+| 2 | PicoType PCB | PCB for the PicoType | 5 | N/A | ₹5,175 | $54.67 |
+| 3 | 0.91 Inch OLED | OLED display | 1 | [Link](https://robu.in/product/blue-oled-display-module/) | ₹151 | $1.60 |
+| 4 | Switches | The mechanical switches | 11 | [Link](https://neomacro.in/products/gateron-ef-cedar) | ₹1,980 | $20.92 |
+| 5 | Rotary Encoder | The Rotary Encoder which can | 1 | [Link](https://robu.in/product/hongyan-ec11h-7ce20p1zy15f7-rotary-encoder-with-push-button-switch-vertical-plug-in-5-pin/) | ₹55 | $0.58 |
+| 6 | XIAO RP2040 | MCU to be used for Numpad | 1 | [Link](https://robocraze.com/products/seeed-studio-seeeduino-xiao-samd21-arduino-compatible-board) | ₹645 | $6.81 |
+| 7 | Raspberry Pi Pico | MCU to be used for PicoType | 1 | [Link](https://robocraze.com/products/raspberry-pi-pico-h-pico-with-headers-soldered) | ₹525 | $5.55 |
+| 8 | Keycaps | Keycaps to put on top of switches | 9 | Self Sourced | N/A | N/A |
+| 9 | Case | To put everything together | 1 | Print-Legion | N/A | N/A |
+| 10 | Magnets | Magnets to hold the case together | N/A | Self Sourced | N/A | N/A |
+| | | | | **Total Cost** | **₹10,376** | **$109.66** |
