@@ -1,0 +1,12 @@
+Item,Description,Quantity,URL,Total Price(INR),Total Price (USD)
+Numpad PCB,PCB for the Numpad,5,N/A,1845,$19.53
+PicoType PCB,PCB for the PicoType,5,N/A,5175,$54.67
+0.91 Inch OLED,OLED display ,1,https://robu.in/product/blue-oled-display-module/,151,$1.60
+Switches,The mechanical switces ,11,https://neomacro.in/products/gateron-ef-cedar,1980,$20.92
+Rotary Encoder ,The Rotary Encode which can ,1,https://robu.in/product/hongyan-ec11h-7ce20p1zy15f7-rotary-encoder-with-push-button-switch-vertical-plug-in-5-pin/,55,$0.58
+XIAO RP2040,MCU which is fonan be used for numpad,1,https://robocraze.com/products/seeed-studio-seeeduino-xiao-samd21-arduino-compatible-board?_pos=7&_sid=71184d8c2&_ss=r,645,$6.81
+Raspberry Pi Pico,MCU which is fonan be used for PicoType,1,https://robocraze.com/products/raspberry-pi-pico-h-pico-with-headers-soldered?_pos=8&_sid=71184d8c2&_ss=r,525,$5.55
+Keycaps,Keycaps to put on top of switches,9,Self Sourced ,N/A,N/A
+Case,To put eveything together ,1,Print-Legion,N/A,N/A
+Magnets,magnets to hold the case together,N/A,Self Sourced ,N/A,N/A
+,,,Total Cost:,"10,376",$109.66
