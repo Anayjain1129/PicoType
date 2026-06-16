@@ -13,6 +13,10 @@
 <img width="1195" height="817" alt="image" src="https://github.com/user-attachments/assets/ed6d7774-4032-4c1c-b10e-0b5ff3ef3ae9" />
 <img width="1049" height="524" alt="image" src="https://github.com/user-attachments/assets/2eabf41b-a9ae-41e7-b924-0fdcefb1c8cc" />
 
+## Zine Page
+<img width="5039" height="7000" alt="Group 272 (4)" src="https://github.com/user-attachments/assets/27459d67-fc8d-4831-82f7-6eed0babbf9e" />
+
+
 
 
 ### What is this project? 
