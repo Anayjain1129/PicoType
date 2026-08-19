@@ -1,4 +1,4 @@
-
+<img width="960" height="1280" alt="WhatsApp Image 2026-08-19 at 5 43 49 AM" src="https://github.com/user-attachments/assets/84b082db-0070-4f98-bad8-ee82f72c19d4" />
 # PicoType 
 <img width="1090" height="658" alt="image" src="https://github.com/user-attachments/assets/f0a9bfdb-f0c8-4a88-b2ed-271221c1e833" />
 <img width="1504" height="767" alt="Screenshot 2026-06-09 235714" src="https://github.com/user-attachments/assets/5ea2e166-e6a9-402b-aaab-bfc7590d5d37" />
@@ -16,6 +16,16 @@
 ## Zine Page
 <img width="5039" height="7000" alt="Group 272 (4)" src="https://github.com/user-attachments/assets/27459d67-fc8d-4831-82f7-6eed0babbf9e" />
 
+## Physically Built
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/068154ed-fe58-40cc-986a-54441d1a9042" />
+<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/27b8e408-138c-42ca-8fd7-8fadf6acdced" />
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/111765dd-d95a-4d61-8317-efb4c16996d0" />
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/a7f681df-6dac-422c-b333-bf5b91028610" />
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/216a4005-c6d6-45ce-8d2a-e338a40e86a9" />
+<img width="1280" height="960" alt="image" src="https://github.com/user-attachments/assets/488f2549-e31b-4104-81de-87061ba49d4f" />
+<img width="1280" height="960" alt="image" src="https://github.com/user-attachments/assets/84cd6161-33ce-4d25-bb30-b7156c4ac422" />
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/bb9f3612-44b0-4ae1-9483-54830d2274be" />
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/efce74da-34ca-4205-9631-c45d83ec3713" />
 
 
 
