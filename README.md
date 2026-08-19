@@ -15,7 +15,8 @@
 <img width="1049" height="524" alt="image" src="https://github.com/user-attachments/assets/2eabf41b-a9ae-41e7-b924-0fdcefb1c8cc" />
 
 ## Zine Page
-<img width="5039" height="7000" alt="Group 272 (4)" src="https://github.com/user-attachments/assets/27459d67-fc8d-4831-82f7-6eed0babbf9e" />
+<img width="620" height="874" alt="image" src="https://github.com/user-attachments/assets/02aafc81-938b-47d0-838e-d8e1af718486" />
+
 
 ## Physically Built
 <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/068154ed-fe58-40cc-986a-54441d1a9042" />
