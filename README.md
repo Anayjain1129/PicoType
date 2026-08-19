@@ -111,3 +111,6 @@ I made this to learn new skills and learn more about PCBs and do ALOT of CAD the
 | 9 | Case | To put everything together | 1 | Print-Legion | N/A | N/A |
 | 10 | Magnets | Magnets to hold the case together | N/A | Self Sourced | N/A | N/A |
 | | | | | **Total Cost** | **₹10,376** | **$109.66** |
+
+# Demo Link
+https://youtu.be/6P1yl1J2G_w?si=dBfJKUdtHREIIz_N
