@@ -15,7 +15,8 @@
 <img width="1049" height="524" alt="image" src="https://github.com/user-attachments/assets/2eabf41b-a9ae-41e7-b924-0fdcefb1c8cc" />
 
 ## Zine Page
-<img width="620" height="874" alt="image" src="https://github.com/user-attachments/assets/02aafc81-938b-47d0-838e-d8e1af718486" />
+<img width="582" height="829" alt="image" src="https://github.com/user-attachments/assets/ceca9b84-73e0-45c9-a992-558d214885ea" />
+
 
 
 ## Physically Built
